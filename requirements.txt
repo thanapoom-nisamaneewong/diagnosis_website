@@ -1,0 +1,12 @@
+streamlit==0.61.0
+pandas==0.25.3
+numpy==1.20.0
+scikit-learn==0.22.1
+pythainlp
+matplotlib
+seaborn
+keras
+tensorflow-cpu
+bokeh==2.4.1
+streamlit-bokeh-events==0.1.2
+streamlit-nightly
